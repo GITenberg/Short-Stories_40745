@@ -1,0 +1,39 @@
+_repo: Short-Stories_40745
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dostoyevsky, Fyodor
+    aliases:
+    - Dostoyevsky, F. M.
+    - Достоевский, Фёдор Михайлович
+    - Dostoievski, Fédor Mikhailovitch
+    - Dostoevsky, Fyodor
+    - Dostoievski, Fedor Mikhailovitch
+    - Dostoievski, Fiodor
+    birthdate: 1821
+    deathdate: 1881
+    gutenberg_agent_id: '314'
+    url: http://www.gutenberg.org/2009/agents/314
+    wikipedia: http://en.wikipedia.org/wiki/Fyodor_Dostoevsky
+description: ''
+gutenberg_issued: '2012-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40745'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- Social life and customs -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Dostoyevsky, Fyodor, 1821-1881 -- Translations into English'
+- !lcsh 'Short stories, Russian -- Translations into English'
+tableOfContents: An honest thief -- A novel in nine letters -- An unpleasant predicament
+  -- Another man's wife -- The heavenly Christmas tree -- The peasant Marey -- The
+  crocodile -- Bobok -- The dream of a ridiculous man.
+title: Short Stories
+url: http://www.gutenberg.org/ebooks/40745
